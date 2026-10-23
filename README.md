@@ -9,4 +9,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 * `Anthropic, Claude Sonnet 5.5: Used to create test cases and to debug the actual code itself`
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+`N/A` 
